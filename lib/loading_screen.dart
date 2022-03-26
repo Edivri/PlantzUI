@@ -32,7 +32,7 @@ class LoadingScreen extends StatelessWidget {
                   )),
               child: RichText(
                 text:const TextSpan(
-                    text: '☘ Planto',
+                    text: '☘ Plantz',
                     style: TextStyle(
                         color: Color(0xffffffff),
                         fontSize: 28.0,
